@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.63.7",
-  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.7-progreso-prueba.apk",
-  "sha256": "b8f28cc3a74ef28eb888db8b21d1b1f79676a35c3aa5e2d8cd91a07d70db1125",
-  "releaseNotes": "Versión de prueba: aviso y progreso al descargar y verificar actualizaciones."
+  "latestVersion": "0.63.9",
+  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.9-progreso-prueba.apk",
+  "sha256": "dbc3cd836ff23361b3f2c64dd399c12ab90e1f9166637833bb00c2de6b7eef2b",
+  "releaseNotes": "Prueba de progreso y descarga de actualización."
 }
