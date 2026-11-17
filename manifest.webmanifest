@@ -1,0 +1,21 @@
+{
+  "name": "Zyk.ia Studio",
+  "short_name": "Zykia Studio",
+  "display": "standalone",
+  "theme_color": "#08100b",
+  "background_color": "#08100b",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
