@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.63.3",
-  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.3-actualizador-prueba.apk",
-  "sha256": "c7055f7ebc831cb747e06c56e767d86875c45266f08683a12235914e270f2d93",
-  "releaseNotes": "Versión de prueba con comprobador de APK; Android requiere confirmación para instalar."
+  "latestVersion": "0.63.4",
+  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.4-actualizador-prueba.apk",
+  "sha256": "ba21408fc7add3663e45eed715c40ca3196d8b70d5e247d4f62913b0ef7bfa6a",
+  "releaseNotes": "Prueba del actualizador: versión 0.63.4, sin cambios de funciones."
 }
