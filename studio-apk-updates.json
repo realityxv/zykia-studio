@@ -1,6 +1,6 @@
 {
-  "latestVersion": "0.63.6",
-  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.6-aviso-prueba.apk",
-  "sha256": "07019e5f43930fdf19f41b10800063ae03592c8de2356d344d76b7fbcf486b43",
-  "releaseNotes": "Versión de prueba para comprobar el aviso de actualización discreto."
+  "latestVersion": "0.63.7",
+  "apkUrl": "https://realityxv.github.io/zykia-studio/Zykia-Studio-v63.7-progreso-prueba.apk",
+  "sha256": "b8f28cc3a74ef28eb888db8b21d1b1f79676a35c3aa5e2d8cd91a07d70db1125",
+  "releaseNotes": "Versión de prueba: aviso y progreso al descargar y verificar actualizaciones."
 }
